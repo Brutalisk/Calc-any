@@ -1,0 +1,1 @@
+exec("a =" + input() + "\nprint(a)")
